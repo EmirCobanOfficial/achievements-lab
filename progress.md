@@ -15,3 +15,6 @@
 - PR #15: automated contribution log entry
 - PR #16: automated contribution log entry
 - PR #17: automated contribution log entry
+
+## Pair programming session
+Added collaboratively.
