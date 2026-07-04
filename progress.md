@@ -9,3 +9,4 @@
 - PR #9: automated contribution log entry
 - PR #10: automated contribution log entry
 - PR #11: automated contribution log entry
+- PR #12: automated contribution log entry
